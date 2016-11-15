@@ -1,2 +1,3 @@
-# Kamibots
-TCC de Rubens Salvador, no curso de Jogos Digitais
+# Overflow
+Game made for Nordevs Game Jam 2016: http://jams.gamejolt.io/nordevsgamejam2016
+
